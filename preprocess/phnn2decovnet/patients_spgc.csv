@@ -1,0 +1,396 @@
+path_in,path_out
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap001.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap001-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap002.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap002-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap003.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap003-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap004.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap004-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap005.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap005-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap006.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap006-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap007.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap007-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap008.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap008-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap009.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap009-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap010.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap010-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap011.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap011-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap012.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap012-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap013.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap013-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap014.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap014-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap015.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap015-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap016.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap016-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap017.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap017-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap018.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap018-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap019.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap019-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap020.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap020-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap021.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap021-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap022.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap022-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap023.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap023-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap024.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap024-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap025.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap025-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap026.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap026-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap027.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap027-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap028.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap028-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap031.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap031-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap032.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap032-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap033.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap033-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap034.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap034-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap035.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap035-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap036.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap036-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap037.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap037-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap038.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap038-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap039.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap039-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap040.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap040-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap041.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap041-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap042.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap042-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap043.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap043-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap044.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap044-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap045.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap045-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap046.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap046-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap047.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap047-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap048.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap048-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap049.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap049-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap050.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap050-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap051.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap051-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap052.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap052-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap053.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap053-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap054.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap054-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap055.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap055-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap056.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap056-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap057.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap057-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap058.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap058-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap059.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap059-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap060.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap060-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P001.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P001-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P002.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P002-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P003.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P003-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P004.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P004-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P005.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P005-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P006.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P006-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P007.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P007-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P008.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P008-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P009.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P009-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P010.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P010-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P011.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P011-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P012.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P012-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P013.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P013-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P014.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P014-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P015.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P015-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P016.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P016-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P017.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P017-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P018.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P018-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P019.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P019-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P020.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P020-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P021.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P021-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P022.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P022-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P023.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P023-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P024.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P024-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P025.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P025-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P026.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P026-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P027.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P027-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P028.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P028-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P029.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P029-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P030.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P030-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P031.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P031-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P032.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P032-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P033.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P033-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P034.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P034-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P035.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P035-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P036.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P036-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P037.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P037-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P038.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P038-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P039.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P039-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P040.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P040-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P041.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P041-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P042.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P042-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P043.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P043-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P044.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P044-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P045.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P045-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P046.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P046-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P047.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P047-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P048.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P048-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P049.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P049-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P050.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P050-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P051.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P051-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P052.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P052-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P053.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P053-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P054.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P054-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P055.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P055-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P056.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P056-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P057.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P057-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P058.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P058-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P059.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P059-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P060.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P060-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P061.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P061-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P062.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P062-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P063.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P063-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P064.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P064-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P065.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P065-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P066.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P066-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P067.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P067-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P068.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P068-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P069.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P069-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P070.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P070-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P071.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P071-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P072.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P072-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P073.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P073-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P074.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P074-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P075.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P075-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P076.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P076-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P077.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P077-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P078.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P078-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P079.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P079-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P080.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P080-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P081.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P081-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P082.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P082-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P083.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P083-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P084.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P084-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P085.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P085-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P086.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P086-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P087.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P087-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P088.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P088-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P089.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P089-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P090.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P090-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P091.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P091-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P092.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P092-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P093.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P093-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P094.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P094-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P095.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P095-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P096.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P096-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P097.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P097-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P098.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P098-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P099.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P099-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P100.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P100-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P101.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P101-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P102.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P102-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P103.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P103-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P104.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P104-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P105.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P105-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P106.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P106-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P107.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P107-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P108.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P108-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P109.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P109-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P110.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P110-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P111.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P111-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P112.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P112-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P113.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P113-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P114.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P114-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P115.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P115-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P116.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P116-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P117.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P117-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P118.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P118-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P119.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P119-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P120.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P120-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P121.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P121-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P122.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P122-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P123.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P123-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P124.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P124-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P125.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P125-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P126.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P126-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P127.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P127-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P128.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P128-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P129.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P129-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P130.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P130-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P131.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P131-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P132.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P132-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P133.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P133-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P134.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P134-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P135.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P135-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P136.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P136-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P137.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P137-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P138.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P138-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P139.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P139-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P140.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P140-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P141.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P141-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P142.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P142-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P143.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P143-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P144.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P144-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P145.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P145-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P146.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P146-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P147.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P147-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P148.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P148-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P149.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P149-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P150.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P150-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P151.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P151-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P152.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P152-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P153.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P153-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P154.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P154-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P155.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P155-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P156.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P156-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P157.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P157-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P158.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P158-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P159.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P159-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P160.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P160-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P161.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P161-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P162.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P162-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P163.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P163-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P164.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P164-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P165.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P165-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P166.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P166-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P167.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P167-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P168.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P168-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P169.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P169-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P170.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P170-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/COVID-19 subjects/crop_by_mask_P171.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/P171-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal001.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal001-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal002.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal002-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal003.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal003-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal004.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal004-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal005.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal005-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal006.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal006-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal007.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal007-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal008.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal008-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal009.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal009-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal010.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal010-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal011.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal011-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal012.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal012-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal013.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal013-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal014.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal014-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal015.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal015-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal016.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal016-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal017.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal017-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal018.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal018-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal019.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal019-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal020.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal020-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal021.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal021-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal022.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal022-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal023.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal023-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal024.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal024-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal025.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal025-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal026.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal026-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal027.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal027-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal028.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal028-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal029.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal029-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal030.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal030-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal031.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal031-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal032.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal032-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal033.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal033-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal034.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal034-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal035.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal035-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal036.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal036-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal037.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal037-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal038.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal038-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal039.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal039-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal040.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal040-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal041.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal041-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal042.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal042-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal043.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal043-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal044.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal044-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal045.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal045-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal046.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal046-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal047.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal047-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal048.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal048-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal049.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal049-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal050.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal050-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal051.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal051-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal052.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal052-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal053.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal053-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal054.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal054-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal055.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal055-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal056.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal056-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal057.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal057-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal058.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal058-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal059.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal059-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal060.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal060-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal061.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal061-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal062.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal062-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal063.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal063-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal064.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal064-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal065.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal065-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal066.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal066-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal067.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal067-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal068.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal068-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal069.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal069-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal070.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal070-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal071.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal071-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal072.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal072-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal073.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal073-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal074.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal074-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal075.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal075-dlmask.npy
+/ssd/share/SPGC-SEGMENTED/Normal subjects/crop_by_mask_normal076.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/normal076-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-001.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-001-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-002.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-002-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-003.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-003-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-004.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-004-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-005.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-005-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-006.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-006-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-007.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-007-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-008.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-008-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-009.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-009-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-010.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-010-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-011.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-011-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-012.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-012-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-013.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-013-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-014.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-014-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-015.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-015-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-016.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-016-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-017.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-017-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-018.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-018-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-019.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-019-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-020.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-020-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-021.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-021-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-022.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-022-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-023.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-023-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-024.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-024-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-025.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-025-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-026.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-026-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-027.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-027-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-028.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-028-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-029.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-029-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T1-030.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T1-030-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-001.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-001-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-002.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-002-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-003.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-003-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-004.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-004-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-005.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-005-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-006.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-006-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-007.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-007-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-008.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-008-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-009.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-009-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-010.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-010-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-011.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-011-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-012.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-012-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-013.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-013-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-014.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-014-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-015.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-015-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-016.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-016-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-017.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-017-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-018.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-018-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-019.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-019-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-020.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-020-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-021.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-021-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-022.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-022-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-023.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-023-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-024.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-024-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-025.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-025-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-026.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-026-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-027.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-027-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-028.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-028-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-029.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-029-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T2-030.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T2-030-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-001.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-001-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-002.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-002-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-003.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-003-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-004.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-004-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-005.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-005-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-006.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-006-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-007.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-007-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-008.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-008-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-009.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-009-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-010.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-010-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-011.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-011-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-012.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-012-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-013.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-013-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-014.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-014-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-015.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-015-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-016.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-016-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-017.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-017-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-018.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-018-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-019.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-019-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-020.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-020-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-021.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-021-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-022.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-022-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-023.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-023-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-024.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-024-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-025.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-025-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-026.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-026-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-027.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-027-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-028.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-028-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-029.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-029-dlmask.npy
+/ssd/share/SPGC-COVID-TEST/NII-SEGMENTED/crop_by_mask_T3-030.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/T3-030-dlmask.npy

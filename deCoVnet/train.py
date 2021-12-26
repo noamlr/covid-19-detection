@@ -25,13 +25,14 @@ import torch.nn.functional as F
 from metrics import sensitivity_specificity
 
 random.seed(0); torch.manual_seed(0); np.random.seed(0)
-DIST_FLAG = torch.cuda.device_count() > 1
+# DIST_FLAG = torch.cuda.device_count() > 1
+DIST_FLAG = False #torch.cuda.device_count() > 1
 
 local_rank = 0
 
 CFG_FILE = sys.argv[1]
 
-#FOLD_ID = int(sys.argv[2])
+FOLD_ID = int(sys.argv[2])
 
 ############### Set up Variables ###############
 with open(CFG_FILE, "r") as f: cfg = yaml.safe_load(f)
@@ -49,15 +50,15 @@ LR_DECAY = float(cfg["SOLVER"]["LR_DECAY"])
 TRAIN_EPOCH = int(cfg["SOLVER"]["TRAIN_EPOCH"])
 BATCH_SIZE_PER_GPU = int(cfg["DATALOADER"]["BATCH_SIZE_PER_GPU"])
 SNAPSHOT_FREQ = int(cfg["SOLVER"]["SNAPSHOT_FREQ"])
-#LOG_FILE = cfg["SOLVER"]["LOG_FILE"].replace("train", "train-{:02d}".format(FOLD_ID))
-LOG_FILE = cfg["SOLVER"]["LOG_FILE"]
+LOG_FILE = cfg["SOLVER"]["LOG_FILE"].replace("train", "train-{:02d}".format(FOLD_ID))
+# LOG_FILE = cfg["SOLVER"]["LOG_FILE"]
 NUM_WORKERS = int(cfg["DATALOADER"]["NUM_WORKERS"])
 SNAPSHOT_HOME = cfg["SOLVER"]["SNAPSHOT_HOME"]
 RESUME_EPOCH = int(cfg["SOLVER"]["RESUME_EPOCH"])
 INIT_MODEL_PATH = cfg["SOLVER"]["INIT_MODEL_PATH"]
 INIT_MODEL_STRICT = eval(cfg["SOLVER"]["INIT_MODEL_STRICT"])
-#SNAPSHOT_MODEL_TPL = "{:02d}-".format(FOLD_ID) + cfg["SOLVER"]["SNAPSHOT_MODEL_TPL"]
-SNAPSHOT_MODEL_TPL = cfg["SOLVER"]["SNAPSHOT_MODEL_TPL"]
+SNAPSHOT_MODEL_TPL = "{:02d}-".format(FOLD_ID) + cfg["SOLVER"]["SNAPSHOT_MODEL_TPL"]
+# SNAPSHOT_MODEL_TPL = cfg["SOLVER"]["SNAPSHOT_MODEL_TPL"]
 RESUME_BOOL = bool(INIT_MODEL_PATH != "")
 
 model = import_module(f"model.{MODEL_UID}")
@@ -66,12 +67,12 @@ ENModel = getattr(model, "ENModel")
 ############### Set up Dataloaders ###############
 Trainset = CTDataset(data_home=DATA_ROOT,
                      split='train',
-                     #fold_id=FOLD_ID,
+                     fold_id=FOLD_ID,
                      crop_size=TRAIN_CROP_SIZE,
                      clip_range=CLIP_RANGE)
 Validset = CTDataset(data_home=DATA_ROOT,
                      split='valid',
-                     #fold_id=FOLD_ID,
+                     fold_id=FOLD_ID,
                      crop_size=TRAIN_CROP_SIZE,
                      clip_range=CLIP_RANGE)
 

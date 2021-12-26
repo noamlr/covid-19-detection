@@ -23,6 +23,7 @@ import os
 from sub_ops import segment_lung_mask, resample, resample_slice
 from sub_ops import load_16bit_dicom_images, normalize_16bit_dicom_images
 import cv2
+import pandas as pd
 #from show_CTA import show_CTA
 
 isotropic_resolution = np.array([1,1,1])
@@ -46,16 +47,16 @@ circle_mask_inv = 1-circle_mask
 # 1. 把肺部分割出来，失败也不管
 # 2. 归一化到1mmx1mmx1mm
 
-def main(path):
+def main(path, unique_id):
 
-    unique_id = path.split('/')[-1]
+    # unique_id = path.split('/')[-1]
 
-    if os.path.isfile(os.path.join(Processed_home, f"{unique_id}.npy")):
-        return
+    #if os.path.isfile(os.path.join(Processed_home, f"{unique_id}.npy")):
+    #    return
 
     print (f"[INFO] Processing {path} - {unique_id}")
     sliceim_pixels, spacing = load_16bit_dicom_images(path)
-
+    print(len(sliceim_pixels))
     # Use a circle to filter out unrelated area
     for i in range(len(sliceim_pixels)):
         sliceim_pixels[i] += -2000 * circle_mask_inv
@@ -70,26 +71,33 @@ def main(path):
     sliceim_mask = normalize_16bit_dicom_images(sliceim_isotropic, HU_window=HU_window)
     np.save(os.path.join(Processed_home, f"{unique_id}.npy"), sliceim_mask)
 
-DEBUG = False
+DEBUG = True
 
 if __name__ == "__main__":
-    #CTA_home = "../ncov_clean"
-    #Processed_home = "./ncov"
-    CTA_home = "../normal_clean"
+    
+    # CTA_home = "../normal_clean"
+    CTA_home = "/ssd/share/HCPA-organizado-parte-2"
     Processed_home = "./normal"
     os.makedirs(Processed_home, exist_ok=True)
-    CTA_paths = listdironly(CTA_home)
+    # CTA_paths = listdironly(CTA_home)
+    CTA_paths = []
+    names = []
+
+    df = pd.read_csv('patients-spgc-test.csv')
+    for index, row in df.iterrows():
+        CTA_paths.append(row['path_in'])
+        names.append(row['name'])
 
     # Serial
     if DEBUG:
-        for path in CTA_paths:
-            main(path)
+        for path, name in zip(CTA_paths, names):
+            main(path, name)
     else:
         # Parallel
         from concurrent import futures
-        num_threads=10
+        num_threads=12
         with futures.ProcessPoolExecutor(max_workers=num_threads) as executor:
-            fs = [executor.submit(main, x) for x in CTA_paths]
+            fs = [executor.submit(main, x, y) for x,y in zip(CTA_paths, names)]
             for i, f in enumerate(futures.as_completed(fs)):
                 print ("{}/{} done...".format(i, len(fs)))
                 #print ("{} result is {}".format(i, f.result()))

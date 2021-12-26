@@ -229,7 +229,8 @@ class ENModel(nn.Module):
                         )
         self.classifier = nn.Sequential(
                             nn.Linear(32, 32),
-                            nn.Linear(32, 2)
+                            nn.Linear(32, num_classes)
+                            #nn.Linear(32, 2)
                         )
 
         # init weights

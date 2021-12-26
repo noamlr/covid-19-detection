@@ -25,8 +25,6 @@ DIST_FLAG = torch.cuda.device_count() > 1
 local_rank = 0
 CFG_FILE = "cfgs/test.yaml"
 
-#fold_id = int(model_path.split('/')[-1][:2])
-
 ############### Set up Variables ###############
 with open(CFG_FILE, "r") as f: cfg = yaml.safe_load(f)
 
@@ -45,9 +43,13 @@ model = import_module(f"model.{MODEL_UID}")
 ENModel = getattr(model, "ENModel")
 criterion = torch.nn.CrossEntropyLoss(reduction="mean")
 
+
+FOLD_ID = int(PRETRAINED_MODEL_PATH.split('/')[-1][:2])
+print(FOLD_ID)
+
 ############### Set up Dataloaders ###############
 Validset = CTDataset(data_home=DATA_ROOT,
-                     split='valid',)
+                     split='valid', fold_id=FOLD_ID)
 
 model = ENModel(arch=ARCH, resnet_depth=DEPTH, 
                 input_channel=2, num_classes=NUM_CLASSES)

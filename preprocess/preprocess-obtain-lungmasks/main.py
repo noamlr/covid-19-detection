@@ -109,9 +109,8 @@ def main(path):
 DEBUG = False
 
 if __name__ == "__main__":
-    #CTA_home = "../ncov_clean"
-    #Processed_home = "./ncov"
-    CTA_home = "../normal_clean"
+    # CTA_home = "../normal_clean"
+    CTA_home = "/ssd/share/HCPA-organizado-parte-2"
     Processed_home = "./normal"
     os.makedirs(Processed_home, exist_ok=True)
     CTA_paths = listdironly(CTA_home)
@@ -123,7 +122,7 @@ if __name__ == "__main__":
     else:
         # Parallel
         from concurrent import futures
-        num_threads=10
+        num_threads=15
         with futures.ProcessPoolExecutor(max_workers=num_threads) as executor:
             fs = [executor.submit(main, x) for x in CTA_paths]
             for i, f in enumerate(futures.as_completed(fs)):

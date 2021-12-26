@@ -14,24 +14,27 @@ import numpy as np
 from scipy.ndimage import zoom
 readvdnames = lambda x: open(x).read().rstrip().split('\n')
 
-src_home = "NpyData-dlmask"
-des_home = "NpyData-clip-size192x288"
+src_home = "NCOV-BF/NpyData-dlmask"
+# des_home = "NpyData-clip-size192x288"
+des_home = "NCOV-BF/NpyData-clip-size224x336"
 
 os.makedirs(des_home, exist_ok=True)
 
 #for d in dirs:
 #    os.makedirs(os.path.join(des_home, d), exist_ok=True)
 
-pe_list = readvdnames(f"ImageSets-old/lung_test.txt")[::-1]
+# pe_list = readvdnames(f"ImageSets-old/lung_test.txt")[::-1]
+pe_list = readvdnames(f"NCOV-BF/ImageSets/all_exams.txt")[::-1]
 
-new_size = (192, 288)   # 192x288       # average isotropic shape: 193x281 
+# new_size = (192, 288)   # 192x288       # average isotropic shape: 193x281 
+new_size = (224, 336)   # 192x288       # average isotropic shape: 193x281 
 
 new_height, new_width = new_size
 
 clip_range = (0.15, 1)
 
 slice_resolution = 1
-from zqlib import imgs2vid
+#from zqlib import imgs2vid
 import cv2
 
 def resize_cta_images(x):        # dtype is "PE"/"NORMAL"  
@@ -87,7 +90,7 @@ def resize_cta_images(x):        # dtype is "PE"/"NORMAL"
 
 from concurrent import futures
 
-num_threads=10
+num_threads=12
 
 with futures.ProcessPoolExecutor(max_workers=num_threads) as executor:
     fs = [executor.submit(resize_cta_images, x, ) for x in pe_list[::-1]]

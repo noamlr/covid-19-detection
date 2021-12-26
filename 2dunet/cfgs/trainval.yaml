@@ -22,4 +22,5 @@ SOLVER:
     RESUME_EPOCH: 0
 
 DATASETS:
-    DATA_ROOT: "NCOV-BF/size368x368-trad"
+    DATA_ROOT: "NCOV-BF"
+    # DATA_ROOT: "NCOV-BF/size368x368-trad"

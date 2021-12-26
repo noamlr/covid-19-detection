@@ -1,0 +1,398 @@
+path_in,name
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap001,cap001
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap002,cap002
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap003,cap003
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap004,cap004
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap005,cap005
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap006,cap006
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap007,cap007
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap008,cap008
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap009,cap009
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap010,cap010
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap011,cap011
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap012,cap012
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap013,cap013
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap014,cap014
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap015,cap015
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap016,cap016
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap017,cap017
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap018,cap018
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap019,cap019
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap020,cap020
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap021,cap021
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap022,cap022
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap023,cap023
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap024,cap024
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap025,cap025
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap026,cap026
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap027,cap027
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap028,cap028
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap029,cap029
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap030,cap030
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap031,cap031
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap032,cap032
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap033,cap033
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap034,cap034
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap035,cap035
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap036,cap036
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap037,cap037
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap038,cap038
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap039,cap039
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap040,cap040
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap041,cap041
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap042,cap042
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap043,cap043
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap044,cap044
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap045,cap045
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap046,cap046
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap047,cap047
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap048,cap048
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap049,cap049
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap050,cap050
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap051,cap051
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap052,cap052
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap053,cap053
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap054,cap054
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap055,cap055
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap056,cap056
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap057,cap057
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap058,cap058
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap059,cap059
+/ssd/share/SPGC-COVID/DICOM/Cap subjects/cap060,cap060
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P001,P001
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P002,P002
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P003,P003
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P004,P004
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P005,P005
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P006,P006
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P007,P007
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P008,P008
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P009,P009
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P010,P010
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P011,P011
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P012,P012
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P013,P013
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P014,P014
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P015,P015
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P016,P016
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P017,P017
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P018,P018
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P019,P019
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P020,P020
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P021,P021
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P022,P022
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P023,P023
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P024,P024
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P025,P025
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P026,P026
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P027,P027
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P028,P028
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P029,P029
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P030,P030
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P031,P031
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P032,P032
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P033,P033
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P034,P034
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P035,P035
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P036,P036
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P037,P037
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P038,P038
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P039,P039
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P040,P040
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P041,P041
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P042,P042
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P043,P043
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P044,P044
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P045,P045
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P046,P046
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P047,P047
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P048,P048
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P049,P049
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P050,P050
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P051,P051
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P052,P052
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P053,P053
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P054,P054
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P055,P055
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P056,P056
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P057,P057
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P058,P058
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P059,P059
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P060,P060
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P061,P061
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P062,P062
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P063,P063
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P064,P064
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P065,P065
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P066,P066
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P067,P067
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P068,P068
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P069,P069
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P070,P070
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P071,P071
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P072,P072
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P073,P073
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P074,P074
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P075,P075
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P076,P076
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P077,P077
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P078,P078
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P079,P079
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P080,P080
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P081,P081
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P082,P082
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P083,P083
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P084,P084
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P085,P085
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P086,P086
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P087,P087
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P088,P088
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P089,P089
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P090,P090
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P091,P091
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P092,P092
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P093,P093
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P094,P094
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P095,P095
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P096,P096
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P097,P097
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P098,P098
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P099,P099
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P100,P100
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P101,P101
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P102,P102
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P103,P103
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P104,P104
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P105,P105
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P106,P106
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P107,P107
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P108,P108
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P109,P109
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P110,P110
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P111,P111
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P112,P112
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P113,P113
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P114,P114
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P115,P115
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P116,P116
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P117,P117
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P118,P118
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P119,P119
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P120,P120
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P121,P121
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P122,P122
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P123,P123
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P124,P124
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P125,P125
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P126,P126
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P127,P127
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P128,P128
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P129,P129
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P130,P130
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P131,P131
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P132,P132
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P133,P133
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P134,P134
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P135,P135
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P136,P136
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P137,P137
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P138,P138
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P139,P139
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P140,P140
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P141,P141
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P142,P142
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P143,P143
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P144,P144
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P145,P145
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P146,P146
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P147,P147
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P148,P148
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P149,P149
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P150,P150
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P151,P151
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P152,P152
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P153,P153
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P154,P154
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P155,P155
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P156,P156
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P157,P157
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P158,P158
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P159,P159
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P160,P160
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P161,P161
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P162,P162
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P163,P163
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P164,P164
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P165,P165
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P166,P166
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P167,P167
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P168,P168
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P169,P169
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P170,P170
+/ssd/share/SPGC-COVID/DICOM/COVID-19 subjects/P171,P171
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal001,normal001
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal002,normal002
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal003,normal003
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal004,normal004
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal005,normal005
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal006,normal006
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal007,normal007
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal008,normal008
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal009,normal009
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal010,normal010
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal011,normal011
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal012,normal012
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal013,normal013
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal014,normal014
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal015,normal015
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal016,normal016
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal017,normal017
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal018,normal018
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal019,normal019
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal020,normal020
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal021,normal021
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal022,normal022
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal023,normal023
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal024,normal024
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal025,normal025
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal026,normal026
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal027,normal027
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal028,normal028
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal029,normal029
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal030,normal030
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal031,normal031
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal032,normal032
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal033,normal033
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal034,normal034
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal035,normal035
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal036,normal036
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal037,normal037
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal038,normal038
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal039,normal039
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal040,normal040
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal041,normal041
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal042,normal042
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal043,normal043
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal044,normal044
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal045,normal045
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal046,normal046
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal047,normal047
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal048,normal048
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal049,normal049
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal050,normal050
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal051,normal051
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal052,normal052
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal053,normal053
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal054,normal054
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal055,normal055
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal056,normal056
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal057,normal057
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal058,normal058
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal059,normal059
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal060,normal060
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal061,normal061
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal062,normal062
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal063,normal063
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal064,normal064
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal065,normal065
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal066,normal066
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal067,normal067
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal068,normal068
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal069,normal069
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal070,normal070
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal071,normal071
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal072,normal072
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal073,normal073
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal074,normal074
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal075,normal075
+/ssd/share/SPGC-COVID/DICOM/Normal subjects/normal076,normal076
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-001,T1-001
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-002,T1-002
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-003,T1-003
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-004,T1-004
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-005,T1-005
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-006,T1-006
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-007,T1-007
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-008,T1-008
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-009,T1-009
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-010,T1-010
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-011,T1-011
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-012,T1-012
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-013,T1-013
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-014,T1-014
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-015,T1-015
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-016,T1-016
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-017,T1-017
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-018,T1-018
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-019,T1-019
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-020,T1-020
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-021,T1-021
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-022,T1-022
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-023,T1-023
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-024,T1-024
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-025,T1-025
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-026,T1-026
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-027,T1-027
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-028,T1-028
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-029,T1-029
+/ssd/share/SPGC-COVID-TEST/DICOM/T1-030,T1-030
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-001,T2-001
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-002,T2-002
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-003,T2-003
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-004,T2-004
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-005,T2-005
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-006,T2-006
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-007,T2-007
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-008,T2-008
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-009,T2-009
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-010,T2-010
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-011,T2-011
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-012,T2-012
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-013,T2-013
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-014,T2-014
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-015,T2-015
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-016,T2-016
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-017,T2-017
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-018,T2-018
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-019,T2-019
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-020,T2-020
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-021,T2-021
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-022,T2-022
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-023,T2-023
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-024,T2-024
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-025,T2-025
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-026,T2-026
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-027,T2-027
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-028,T2-028
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-029,T2-029
+/ssd/share/SPGC-COVID-TEST/DICOM/T2-030,T2-030
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-001,T3-001
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-002,T3-002
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-003,T3-003
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-004,T3-004
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-005,T3-005
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-006,T3-006
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-007,T3-007
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-008,T3-008
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-009,T3-009
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-010,T3-010
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-011,T3-011
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-012,T3-012
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-013,T3-013
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-014,T3-014
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-015,T3-015
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-016,T3-016
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-017,T3-017
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-018,T3-018
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-019,T3-019
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-020,T3-020
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-021,T3-021
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-022,T3-022
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-023,T3-023
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-024,T3-024
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-025,T3-025
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-026,T3-026
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-027,T3-027
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-028,T3-028
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-029,T3-029
+/ssd/share/SPGC-COVID-TEST/DICOM/T3-030,T3-030

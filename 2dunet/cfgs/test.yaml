@@ -1,7 +1,7 @@
 MODEL:
     MODEL_UID: "unet"
     NUM_CLASSES: 2
-    PRETRAINED_MODEL_PATH: "pretrained_model/unet-Epoch_00110-valid98.pth"
+    PRETRAINED_MODEL_PATH: "experiments/lungseg-Epoch_00280.pth"
 
 DATALOADER:
     TRAIN_CROP_SIZE: [192, 288]
@@ -10,7 +10,8 @@ DATALOADER:
     SAMPLE_NUMBER: -1     # All CT images
 
 DATASETS:
-    DATA_ROOT: "NCOV-BF/size368x368-dlmask"
+    #DATA_ROOT: "NCOV-BF/size368x368-dlmask"
+    DATA_ROOT: "NCOV-BF/"
 
 TEST:
     LOG_FILE: "test.log"

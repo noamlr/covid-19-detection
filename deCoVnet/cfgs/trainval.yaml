@@ -1,30 +1,34 @@
 # For bigger inputs, and fix dropout, keep bn unchanged
 MODEL:
-    MODEL_UID: "baseline_i3d_s2"
+    MODEL_UID: "baseline_i3d"
+    # MODEL_UID: "baseline_i3d_s2"
     ARCH: "i3d"
     DEPTH: 50
-    NUM_CLASSES: 2
+    NUM_CLASSES: 2 # Binary
+    # NUM_CLASSES: 3
 
 DATALOADER:
     TRAIN_CROP_SIZE: [224, 336]
     #TRAIN_CROP_SIZE: [224, 224]
     BATCH_SIZE_PER_GPU: 1
-    NUM_WORKERS: 10
+    NUM_WORKERS: 20
     CLIP_RANGE: [0.3, 0.7]
 
 SOLVER:
     LEARNING_RATE: 1e-5
     WEIGHT_DECAY: 0
     LR_DECAY: 1
-    TRAIN_EPOCH: 300
+    TRAIN_EPOCH: 500
     SNAPSHOT_FREQ: 2
     SNAPSHOT_HOME: "experiments"
     SNAPSHOT_MODEL_TPL: "ncov-Epoch_{:05d}.pth"
     LOG_FILE: "experiments/train_s2.log"
-    INIT_MODEL_PATH: ""
+    INIT_MODEL_PATH: "experiments/07-ncov-Epoch_00299.pth"
+    # INIT_MODEL_PATH: ""
     INIT_MODEL_STRICT: "True"
-    RESUME_EPOCH: 0
+    RESUME_EPOCH: 299
 
 DATASETS:
-    DATA_ROOT: "NCOV-BF/size368x368-dlmask"
+    DATA_ROOT: "NCOV-BF"
+    # DATA_ROOT: "NCOV-BF/size368x368-dlmask"
     CT_KEYDB: "CT_keydb.json"

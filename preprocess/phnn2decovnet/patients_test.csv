@@ -1,0 +1,2 @@
+path_in,path_out
+/ssd/share/SPGC-SEGMENTED/Cap subjects/crop_by_mask_cap026.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap026-dlmask.npy

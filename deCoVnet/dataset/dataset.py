@@ -35,29 +35,43 @@ class CTDataset(data.Dataset):
                        fold_id=None,
                        crop_size=(196, 288),
                        clip_range=(0.2, 0.7),   # useless
+                       num_classes=2,
                        logger=None):
 
+        # data_subdir = "NpyData-size224x336"
         data_subdir = "NpyData-clip-size224x336"
         print ("in dataset, load npy data in {}".format(data_subdir))
 
-        _embo_f = os.path.join(data_home, "ImageSets", "ncov_{}.txt".format(split))
-        _norm_f = os.path.join(data_home, "ImageSets", "normal_{}.txt".format(split))
+        _embo_f = os.path.join(data_home, "ImageSets/fold{}".format(fold_id), "ncov_{}.txt".format(split))
+        _norm_f = os.path.join(data_home, "ImageSets/fold{}".format(fold_id), "normal_{}.txt".format(split))
+        _cap_f = []
+        meta_cap = []
+        if num_classes > 2:
+            _cap_f = os.path.join(data_home, "ImageSets/fold{}".format(fold_id), "cap_{}.txt".format(split))
         # Build a dictionary to record {path - label} pair
         meta_pos   = [[os.path.join(data_home, data_subdir, "{}.npy".format(x)), 1] 
                                 for x in readvdnames(_embo_f)]
 
         meta_neg   = [[os.path.join(data_home, data_subdir, "{}.npy".format(x)), 0] 
                                 for x in readvdnames(_norm_f)]
+        
+        if num_classes > 2:
+            meta_cap   = [[os.path.join(data_home, data_subdir, "{}.npy".format(x)), 2] 
+                                    for x in readvdnames(_cap_f)]
 
         if split == "train":
-            if len(meta_pos) > len(meta_neg):
-                for i in range(len(meta_pos) - len(meta_neg)):
-                    meta_neg.append(random.choice(meta_neg))
-            else:
-                for i in range(len(meta_neg) - len(meta_pos)):
-                    meta_pos.append(random.choice(meta_pos))
+            n_max = max(len(meta_pos), len(meta_neg))
+            if num_classes > 2:
+                n_max = max(n_max, len(meta_cap))
+                for i in range(n_max - len(meta_cap)):
+                    meta_cap.append(random.choice(meta_cap))
 
-        meta = meta_pos + meta_neg
+            for i in range(n_max - len(meta_neg)):
+                meta_neg.append(random.choice(meta_neg))
+            for i in range(n_max - len(meta_pos)):
+                meta_pos.append(random.choice(meta_pos))
+
+        meta = meta_pos + meta_neg + meta_cap
         
         #print (meta)
         self.data_home = data_home
@@ -88,6 +102,19 @@ class CTDataset(data.Dataset):
         #num_frames = len(cta_images)
         #left, right = [int(num_frames*x) for x in self.clip_range]
         #cta_images = cta_images[left:right]
+        #cta_masks = cta_masks[left:right]
+        num_frames = len(cta_images)
+        shape = cta_images.shape
+
+        #cta_images = cta_images * cta_masks
+        #import pdb
+        #pdb.set_trace()
+
+        # Data augmentation
+        if self.split == "train":
+            cta_images, cta_masks = Rand_Transforms(cta_images, cta_masks, ANGLE_R=10, TRANS_R=0.1, SCALE_R=0.2, SHEAR_R=10,
+                                             BRIGHT_R=0.5, CONTRAST_R=0.3)
+
         #cta_masks = cta_masks[left:right]
         num_frames = len(cta_images)
         shape = cta_images.shape
@@ -146,16 +173,3 @@ if __name__ == "__main__":
     ctd.debug(0)
     import time
     s = time.time()
-    for i in range(length):
-        print (i)
-        th_img, th_label, info = ctd[i]
-    e = time.time()
-    print ("time: ", e-s)
-
-    #images, labels, info = ctd[0]
-    #for i in range(10):
-    #    ctd.debug(i)
-    import pdb
-    pdb.set_trace()
-
-

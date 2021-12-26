@@ -24,13 +24,17 @@ dumpimgs = lambda x, p: [cv2.imwrite("debug/{}_{:05d}.png".format(p, i), xi) for
 
 """ Return a int32 dtype numpy image of a directory. """
 def load_16bit_dicom_images(path, verbose=True):
+    #listdir = os.listdir(path)
     slices = [pydicom.read_file(os.path.join(path, s), force=True)
-                        for s in os.listdir(path)]
+                         for s in os.listdir(path) if "ERSIO" not in s and "_Sto" not in s]
+    print(slices[0].ImagePositionPatient[2])
     slices.sort(key=lambda x: float(x.ImagePositionPatient[2]))
 
     #import pdb
     #pdb.set_trace()
     total_cnt = len(slices)
+    # 
+    print(f'total_ori: {total_cnt}')
     
     slice_thickness = np.abs(slices[0].ImagePositionPatient[2]-
                              slices[1].ImagePositionPatient[2])
@@ -56,7 +60,8 @@ def load_16bit_dicom_images(path, verbose=True):
 
     for s in slices:
         s.SliceThickness = slice_thickness
-
+    # 
+    print(f'total_diff: {len(s)}')
     # Fix HU
     image = np.stack([s.pixel_array for s in slices])
     image = image.astype(np.int16)

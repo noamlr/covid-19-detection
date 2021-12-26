@@ -1,0 +1,27 @@
+[32m[I 210723 19:41:20 test:55][0;10m Config cfgs/test.yaml...
+[32m[I 210723 19:41:20 test:56][0;10m {
+     "MODEL": {
+      "MODEL_UID": "unet",
+      "NUM_CLASSES": 2,
+      "PRETRAINED_MODEL_PATH": "experiments/lungseg-Epoch_00280.pth"
+     },
+     "DATALOADER": {
+      "TRAIN_CROP_SIZE": [
+       192,
+       288
+      ],
+      "BATCH_SIZE_PER_GPU": 1,
+      "NUM_WORKERS": 8,
+      "SAMPLE_NUMBER": -1
+     },
+     "DATASETS": {
+      "DATA_ROOT": "NCOV-BF/"
+     },
+     "TEST": {
+      "LOG_FILE": "test.log",
+      "RESULE_HOME": "unet-results"
+     }
+    }
+[33m[W 210723 19:41:20 test:57][0;10m Loading init model path experiments/lungseg-Epoch_00280.pth
+[32m[I 210723 19:41:20 test:66][0;10m Do evaluation...
+[32m[I 210723 19:41:21 test:73][0;10m [{'name': 'NCOV-BF/NpyData/cap026.npy', 'num_frames': 143, 'shape': (143, 512, 512)}]

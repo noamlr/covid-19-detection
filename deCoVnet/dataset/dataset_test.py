@@ -35,26 +35,42 @@ class CTDataset(data.Dataset):
                        fold_id=None,
                        crop_size=(196, 288),
                        clip_range=(0.2, 0.7),   # useless
+                       num_classes=2,
                        logger=None):
 
-        _embo_f = os.path.join(data_home, "ImageSets", "ncov_{}.txt".format(split))
-        _norm_f = os.path.join(data_home, "ImageSets", "normal_{}.txt".format(split))
+        _embo_f = os.path.join(data_home, "ImageSets","fold{}".format(fold_id),  "ncov_{}.txt".format(split))
+        _norm_f = os.path.join(data_home, "ImageSets","fold{}".format(fold_id), "normal_{}.txt".format(split))
+        _cap_f = []
+        meta_cap = []
+        if num_classes > 2:
+            _cap_f = os.path.join(data_home, "ImageSets","fold{}".format(fold_id), "cap_{}.txt".format(split))
         # Build a dictionary to record {path - label} pair
-        meta_pos   = [[os.path.join(data_home, "NpyData-size224x336", "{}.npy".format(x)), 1] 
+        # meta_pos   = [[os.path.join(data_home, "NpyData-size224x336", "{}.npy".format(x)), 1] 
+        meta_pos   = [[os.path.join(data_home, "NpyData-clip-size224x336", "{}.npy".format(x)), 1] 
                                 for x in readvdnames(_embo_f)]
 
-        meta_neg   = [[os.path.join(data_home, "NpyData-size224x336", "{}.npy".format(x)), 0] 
+        # meta_neg   = [[os.path.join(data_home, "NpyData-size224x336", "{}.npy".format(x)), 0] 
+        meta_neg   = [[os.path.join(data_home, "NpyData-clip-size224x336", "{}.npy".format(x)), 0] 
                                 for x in readvdnames(_norm_f)]
-
+        
+        if num_classes > 2:
+            meta_cap   = [[os.path.join(data_home, "NpyData-clip-size224x336", "{}.npy".format(x)), 2] 
+                                    for x in readvdnames(_cap_f)]
+            
         if split == "train":
-            if len(meta_pos) > len(meta_neg):
-                for i in range(len(meta_pos) - len(meta_neg)):
-                    meta_neg.append(random.choice(meta_neg))
-            else:
-                for i in range(len(meta_neg) - len(meta_pos)):
-                    meta_pos.append(random.choice(meta_pos))
+            n_max = max(len(meta_pos), len(meta_neg))
 
-        meta = meta_pos + meta_neg
+            if num_classes > 2:
+                n_max = max(n_max, len(meta_cap))
+                for i in range(n_max - len(meta_cap)):
+                    meta_neg.append(random.choice(meta_cap))
+            
+            for i in range(n_max - len(meta_neg)):
+                meta_neg.append(random.choice(meta_neg))
+            for i in range(n_max - len(meta_pos)):
+                meta_pos.append(random.choice(meta_pos))
+
+        meta = meta_pos + meta_neg + meta_cap
         
         #print (meta)
         self.data_home = data_home
