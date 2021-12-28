@@ -76,7 +76,7 @@ DEBUG = True
 if __name__ == "__main__":
     
     # CTA_home = "../normal_clean"
-    CTA_home = "/ssd/share/HCPA-organizado-parte-2"
+    # CTA_home = "/ssd/share/HCPA-organizado-parte-2"
     Processed_home = "./normal"
     os.makedirs(Processed_home, exist_ok=True)
     # CTA_paths = listdironly(CTA_home)

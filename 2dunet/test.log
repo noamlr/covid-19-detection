@@ -1,5 +1,5 @@
-[32m[I 210723 19:41:20 test:55][0;10m Config cfgs/test.yaml...
-[32m[I 210723 19:41:20 test:56][0;10m {
+[32m[I 211228 00:08:21 test:55](B[m Config cfgs/test.yaml...
+[32m[I 211228 00:08:21 test:56](B[m {
      "MODEL": {
       "MODEL_UID": "unet",
       "NUM_CLASSES": 2,
@@ -22,6 +22,7 @@
       "RESULE_HOME": "unet-results"
      }
     }
-[33m[W 210723 19:41:20 test:57][0;10m Loading init model path experiments/lungseg-Epoch_00280.pth
-[32m[I 210723 19:41:20 test:66][0;10m Do evaluation...
-[32m[I 210723 19:41:21 test:73][0;10m [{'name': 'NCOV-BF/NpyData/cap026.npy', 'num_frames': 143, 'shape': (143, 512, 512)}]
+[33m[W 211228 00:08:21 test:57](B[m Loading init model path experiments/lungseg-Epoch_00280.pth
+[32m[I 211228 00:08:21 test:66](B[m Do evaluation...
+[32m[I 211228 00:08:22 test:73](B[m [{'name': 'NCOV-BF/NpyData/cap020.npy', 'num_frames': 133, 'shape': (133, 512, 512)}]
+[32m[I 211228 00:08:25 test:73](B[m [{'name': 'NCOV-BF/NpyData/cap026.npy', 'num_frames': 143, 'shape': (143, 512, 512)}]
