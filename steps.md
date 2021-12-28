@@ -9,7 +9,7 @@ Executamos a parte da rede da 2dunet só para converter as CTs no formato corret
 1. Ir na pasta "preprocess/preprocess-obtain-puredicom" e criar o "patients.csv" de conversão dos dicoms para o formato de input da 2dunet. O csv tem que ter o seguinte formato:
 
 ```
-path\_in,name
+path_in,name
 /ssd/share/CT-Original/DICOM-HCPA/exame-pulmao/NEG-001,NEG-001
 /ssd/share/CT-Original/DICOM-HMV/exame-pulmao/C123/TEB0IYOF/Q34XOCAJ,C123
 ...
@@ -18,7 +18,7 @@ path\_in,name
 
 Esse nome tem que estar na linha 86 do arquivo main.py:
 ```
-linha 86: df = pd.read\_csv('patients-spgc-test.csv') # mudar pelo nome do arquivo
+linha 86: df = pd.read_csv('patients-spgc-test.csv') # mudar pelo nome do arquivo
 ```
 
 2. Executar o main.py -> vai criar uma pasta "./normal" e adicionar ali o formato .npy de entrada para a "2dunet"
@@ -44,7 +44,7 @@ Aqui precisa fazer seu proceso para obter da sua segmentação formato .npy. Nes
 
 7. Na pasta "preprocess/phnn2decovnet" criar o arquivo patients.csv com o seguinte formato:
 ```
-path\_in,path\_out
+path_in,path_out
 /ssd/share/SPGC-SEGMENTED/Cap subjects/crop\_by\_mask\_cap020.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap020-dlmask.npy
 /ssd/share/SPGC-SEGMENTED/Cap subjects/crop\_by\_mask\_cap026.nii.gz,/home/users/nmlromero/other-methods/sydney0zq/covid-19-detection/deCoVnet/NCOV-BF/NpyData-dlmask/cap026-dlmask.npy
 ```
