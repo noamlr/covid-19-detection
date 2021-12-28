@@ -90,4 +90,4 @@ Caso o treino parar numa época pode voltar a retomar executando o mesmo comando
 python test.py cfgs/test.yaml 1    # testternary.py para 3 classes e mudar no test.yaml o NUM_CLASSES: 3
 ```
 
-# NOTA: Eu fiz quase todas as CTs com paths absolutos, cuidado se tentar usar elas mesmas
+### NOTA: Eu fiz quase todas as CTs com paths absolutos, cuidado se tentar usar elas mesmas
